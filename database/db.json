@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Second Post",
+      "date": "25-05-2023 12:23:56",
+      "body": "I am a highly motivated and passionate graduate currently seeking for opportunity where I would work with a dynamic team to proffer solutions to real problems using information technology."
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "date": "25-05-2023 12:23:56",
+      "body": "I am a highly motivated and passionate graduate currently seeking for opportunity where I would work with a dynamic team to proffer solutions to real problems using information technology."
+    },
+    {
+      "id": 4,
+      "title": "Fouth Post",
+      "date": "25-05-2023 12:23:56",
+      "body": "I am a highly motivated and passionate graduate currently seeking for opportunity where I would work with a dynamic team to proffer solutions to real problems using information technology."
+    },
+    {
+      "id": 5,
+      "title": "testing",
+      "date": "August 15, 2023 5:43:25 PM",
+      "body": "tesing...................."
+    },
+    {
+      "id": 7,
+      "title": "5th post",
+      "date": "August 15, 2023 11:49:17 PM",
+      "body": "latest edit"
+    },
+    {
+      "id": 8,
+      "title": "testing the app",
+      "postDate": "August 19, 2023 11:36:50 PM",
+      "body": "checking"
+    }
+  ]
+}
